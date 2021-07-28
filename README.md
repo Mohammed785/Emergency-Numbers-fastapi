@@ -6,3 +6,12 @@ To start the api open app folder in cmd and enter
 ```
 uvicorn main:app --reload
 ```
+
+Default admin
+```
+admin@fastapi.com
+```
+password
+```
+fastapi
+```
